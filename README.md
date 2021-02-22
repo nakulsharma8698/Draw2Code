@@ -6,6 +6,9 @@
 
 - Our model obtained 96% accuracy on the testing set for handwriting recognition.
 
+### Output Results
+![alt text](https://res.cloudinary.com/nakul/image/upload/v1613978130/WhatsApp_Image_2021-02-22_at_12.43.09_PM_kkh7vw.jpg?raw=true)
+![alt text](https://res.cloudinary.com/nakul/image/upload/v1613978130/WhatsApp_Image_2021-02-22_at_12.41.56_PM_yya4ef.jpg?raw=true)
 OCR-Handwriting-Recognition/ directory contains the following:
 
 - deeplearning module:
